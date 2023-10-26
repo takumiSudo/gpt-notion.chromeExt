@@ -33,6 +33,8 @@ graph TD;
 3. Review the GPT explanation in the popup.
 4. Click "Save to Notion" to log the information to your database.
 
+*local port must be open for the django server to work*
+
 ## Configuration
 1. Connect to your Notion API by adding your Integration Token in the extension's options page.
 2. Specify the database where you want to log the data.
